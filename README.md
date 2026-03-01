@@ -1,2 +1,2 @@
 # IMMC
-# member : Feliz Eason Allan Max and Mr. Lou
+# member : Feliz Eason Alan Max and Mr. Lou
